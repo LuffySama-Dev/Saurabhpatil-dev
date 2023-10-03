@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>I am a Smart-Contract📝 developer🧑🏻‍💻 from INDIA 🇮🇳. </h2>
-<p> I’m currently working on a project for Chainlink Hackathon. The concept is to build a DAO. I will discuss it more once it is completed.<br>But I can tell that I am going to use Solidity, Polygon, CahinLink Oracle, Hardhat, NextJS in developing it 😁.</p><br>
+<h2>I am a Full-Stack📝 developer🧑🏻‍💻 from INDIA 🇮🇳. </h2>
+<p> I’m currently learning the implementation of zk circuits using different protocols like Mina, Risc0, =nil; Foundation, Aleo, zkSync era  and many more😁.</p><br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/saurabhpatil-dev/">
