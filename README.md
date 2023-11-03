@@ -26,9 +26,6 @@ Here are some ideas to get you started:
   <a href="https://learnweb3.io/profiles/SaurabhPatil">
   <img src="https://img.shields.io/badge/LearnWeb3DAO-purple?style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/saurabh17999">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 
