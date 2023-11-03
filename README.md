@@ -23,9 +23,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/saurabhpatil-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://learnweb3.io/profiles/SaurabhPatil">
-  <img src="https://img.shields.io/badge/LearnWeb3DAO-purple?style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
 </div>
 
 
